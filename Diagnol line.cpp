@@ -6,7 +6,7 @@ int main() {
     for (int i = 1; i <= size; i++) {
         for (int j = 1; j <= size; j++) {
             if (i == j) {
-                cout << "*";
+                cout << "*"; 
             } else {
                 cout << " ";
             }
